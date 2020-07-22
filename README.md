@@ -6,6 +6,7 @@ Get complete instructions for manipulating, processing, cleaning, and crunching 
 Buy From : https://amzn.to/3fLcvva
 
 ![Book Cover](https://image.ebooks.com/previews/095/095871/095871448/095871448.jpg)
+<img align="left" src="https://image.ebooks.com/previews/095/095871/095871448/095871448.jpg" width=90>
 
 ## Book 2: Introduction to Machine Learning with Python
 Introduction to Machine Learning with Python is a gentle introduction into machine learning. It doesn’t assume any knowledge about Python and it introduces fundamental concepts and applications of machine learning, discussing various methods through examples. That’s the best book I’ve ever seen for an entry level Machine Learning Engineer.
