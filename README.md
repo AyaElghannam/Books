@@ -22,3 +22,5 @@ Buy From : https://amzn.to/3eN4OTQ
 ## Book 3: Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow Concepts, Tools and Techniques to Build Intelligent Systems
 
 Buy From : https://amzn.to/3fMi8ch
+
+<img align="center" src="https://images-na.ssl-images-amazon.com/images/I/81kv0vHJ0QL.jpg" width=500>
