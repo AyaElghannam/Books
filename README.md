@@ -8,8 +8,8 @@ Get complete instructions for manipulating, processing, cleaning, and crunching 
 
 Buy From : https://amzn.to/3fLcvva
 
-![Book Cover](https://image.ebooks.com/previews/095/095871/095871448/095871448.jpg)
-<img align="center" src="https://image.ebooks.com/previews/095/095871/095871448/095871448.jpg" width=500>
+
+<img align="center" src="https://image.ebooks.com/previews/095/095871/095871448/095871448.jpg" width=400>
 
 ## Book 2: Introduction to Machine Learning with Python
 
@@ -17,8 +17,10 @@ Introduction to Machine Learning with Python is a gentle introduction into machi
 
 Buy From : https://amzn.to/3eN4OTQ
 
-![Book Cover Intro To ML with PY](https://kbimages1-a.akamaihd.net/17f5a317-8bc1-41c2-a04a-e7137aeef4ca/1200/1200/False/introduction-to-machine-learning-with-python.jpg)
+<img align="center" src="https://kbimages1-a.akamaihd.net/17f5a317-8bc1-41c2-a04a-e7137aeef4ca/1200/1200/False/introduction-to-machine-learning-with-python.jpg" width=400>
 
 ## Book 3: Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow Concepts, Tools and Techniques to Build Intelligent Systems
 
 Buy From : https://amzn.to/3fMi8ch
+
+<img align="center" src="https://images-na.ssl-images-amazon.com/images/I/81kv0vHJ0QL.jpg" width=400>
