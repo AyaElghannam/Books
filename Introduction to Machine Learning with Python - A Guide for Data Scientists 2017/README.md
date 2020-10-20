@@ -1,3 +1,5 @@
+# Youtube playlist:
+https://www.youtube.com/watch?v=Qd68h4UGlNY&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
 # Table of contents
 ## Chapter 1
 - A First Application: Classifying Iris Species
